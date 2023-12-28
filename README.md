@@ -12,7 +12,8 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Python](![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=pink&color=05122A)
 
 
