@@ -13,6 +13,7 @@
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Java](https://img.shields.io/badge/-java-000?&logo=java)
 
 
 <a style="padding:20px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay123nayak&hide=SCSS,less,php&bg_color=DEG&langs_count=3"></a>
