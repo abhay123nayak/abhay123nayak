@@ -18,7 +18,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-
 <a style="padding:20px"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay123nayak&hide=SCSS,less,php&bg_color=DEG&langs_count=2&layout=compact&hide_title=true&card_width=250&hide_border=true&custom_title=Top%20Languages%20(%25)&exclude_repo=repo1,repo2">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay123nayak&hide=SCSS,less,php&bg_color=DEG&langs_count=4&layout=compact&hide_title=true&card_width=250&hide_border=true&custom_title=Top%20Languages%20(%25)&exclude_repo=repo1,repo2&langs=python,java,html,css">
 </a>
+
