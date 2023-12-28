@@ -17,6 +17,5 @@
 
 
 <a style="padding:20px"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay123nayak&hide=SCSS,less,php&bg_color=DEG&langs_count=5&layout=compact&hide_title=true&card_width=250&hide_border=true&custom_title=Top%20Languages%20(%25)">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay123nayak&hide=SCSS,less,php&bg_color=DEG&langs_count=2&layout=compact&hide_title=true&card_width=250&hide_border=true&custom_title=Top%20Languages%20(%25)&exclude_repo=repo1,repo2">
 </a>
-
