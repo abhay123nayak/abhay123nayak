@@ -13,7 +13,7 @@
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Google Assistant](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 <a style="padding:20px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay123nayak&hide=SCSS,less,php&bg_color=DEG&langs_count=3"></a>
